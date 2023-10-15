@@ -1,6 +1,7 @@
 ---
 order: 97
 authors: GT Vallet
+visibility: protected
 ---
 
 # Congrès
