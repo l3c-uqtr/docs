@@ -1,0 +1,129 @@
+{
+  "version": "3.5.0",
+  "created": "2023-10-15T21:47:47Z",
+  "files": [
+    {
+      "path": ".nojekyll"
+    },
+    {
+      "path": "404.html"
+    },
+    {
+      "path": "articletype/index.html"
+    },
+    {
+      "path": "assets/schatconfig.png"
+    },
+    {
+      "path": "assets/sdriveconfig.png"
+    },
+    {
+      "path": "assets/sdrivefiles.png"
+    },
+    {
+      "path": "assets/sdrivesync.png"
+    },
+    {
+      "path": "assets/snoteconfig.png"
+    },
+    {
+      "path": "assets/snotenewnotebook.png"
+    },
+    {
+      "path": "assets/snotesharing.png"
+    },
+    {
+      "path": "assets/zotero1.png"
+    },
+    {
+      "path": "assets/zotero2.png"
+    },
+    {
+      "path": "CNAME"
+    },
+    {
+      "path": "communication/index.html"
+    },
+    {
+      "path": "index.html"
+    },
+    {
+      "path": "l3c/index.html"
+    },
+    {
+      "path": "notes/index.html"
+    },
+    {
+      "path": "openscience/index.html"
+    },
+    {
+      "path": "outils/index.html"
+    },
+    {
+      "path": "resources/css/retype.css"
+    },
+    {
+      "path": "resources/fonts/Inter-italic-latin-var.woff2"
+    },
+    {
+      "path": "resources/fonts/Inter-roman-latin-var.woff2"
+    },
+    {
+      "path": "resources/js/config.js"
+    },
+    {
+      "path": "resources/js/lunr.js"
+    },
+    {
+      "path": "resources/js/retype.js"
+    },
+    {
+      "path": "resources/js/search.json"
+    },
+    {
+      "path": "resources/lunr.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/mermaid.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/prism.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.js.LICENSE.txt"
+    },
+    {
+      "path": "resources/retype.LICENSE.txt"
+    },
+    {
+      "path": "robots.txt"
+    },
+    {
+      "path": "sitemap.xml.gz"
+    },
+    {
+      "path": "students/bourses/index.html"
+    },
+    {
+      "path": "students/congres/index.html"
+    },
+    {
+      "path": "students/project/index.html"
+    },
+    {
+      "path": "synology/index.html"
+    },
+    {
+      "path": "testsnpsy/mnepiso/index.html"
+    },
+    {
+      "path": "toadd/index.html"
+    },
+    {
+      "path": "tuto/r/index.html"
+    },
+    {
+      "path": "tuto/zotero/index.html"
+    }
+  ]
+}
