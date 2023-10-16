@@ -2,6 +2,8 @@
 visibility: hidden
 ---
 
+Info à ajouter par la suite
+
 # Info sur rabais pour publication en accès libre
 https://www.crkn-rcdr.ca/fr/publication-en-libre-acc%C3%A8s
 
