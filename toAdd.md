@@ -68,3 +68,5 @@ https://guides.library.stanford.edu/data-best-practices/sensitive-data
 
 # nettoyage base de données
 https://openrefine.org/
+
+# cf congres
