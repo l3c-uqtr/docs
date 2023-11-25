@@ -32,6 +32,7 @@ Il faut garder la trace des virements interacts (à fournir à l'UQTR) et mettre
 
 
 # Organisation des dossiers de recherche
+
 ```
 1-ProjectManagement
   |- 11_Proposals
@@ -58,10 +59,9 @@ Il faut garder la trace des virements interacts (à fournir à l'UQTR) et mettre
   |- 41_Confs
   |- 42_Articles
   |- 43_Other
-  ```
+```
 
 # Bonnes pratiques tableurs
-
 https://guides.library.stanford.edu/data-best-practices/manage-spreadsheets
 
 # Données sensibles
@@ -71,4 +71,16 @@ https://guides.library.stanford.edu/data-best-practices/sensitive-data
 # nettoyage base de données
 https://openrefine.org/
 
-# cf congres
+
+# Questionnaires en lignes vs non
+https://espace.inrs.ca/id/eprint/2678/1/Inedit02-15.pdf
+
+
+# Calcul puissance
+https://cran.r-project.org/web/packages/pwrss/vignettes/examples.html
+
+# Financement au doct
+https://www.milliondollarphd.ca/preview#preview
+
+Réf intéressante pour conseils vie académique
+http://www.culhamlab.com/academic-advice
