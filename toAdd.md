@@ -84,3 +84,13 @@ https://www.milliondollarphd.ca/preview#preview
 
 Réf intéressante pour conseils vie académique
 http://www.culhamlab.com/academic-advice
+
+
+# Procedure demande avance de fonds
+1. Ouvrir le fichier “Demande d’avance”
+2. Indiquer l’étudiant-e comme réquérant
+3. Indiquer le montant demander et justifier la demande
+4. Indiquer le numéro de certificat éthique 
+5. Indiquer l’UBR/Annexe C
+6. Faire compléter numéro de matricule (si déjà eu un contrat avec univ, sinon indiquer adresse postale complète)et signature par étudiant-e
+7. Envoyer à Julie Beauchemin avec autorisation use fonds
