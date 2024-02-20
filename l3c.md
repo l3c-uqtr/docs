@@ -23,3 +23,7 @@ La collaboration est une valeur tout aussi essentielle au sein du laboratoire, q
 Convaincu qu'à plusieurs, on va plus loin et que différents points de vues construisent de meilleurs recherche, chacun et chacune est invité-e à s'exprimer dans le respect des autres et de leurs opinions. 
 
 Enfin, nous cultivons un environnement de travail inclusif, où la diversité des idées est encouragée et celle des personnes respectée, stimulant ainsi l'innovation et la créativité au sein de notre équipe.
+
+# Membres
+Le laboratoire comporte 10 membres actuellement.
+La présentation des membres est disponibles sur la page dédiée.
