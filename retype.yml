@@ -5,11 +5,6 @@ poweredByRetype: false
 branding:
   title: L3C
   label: Docs
-poweredByRetype: true # Set to false to remove the Powered by Retype branding.
-                      # A Retype Pro license is required.
-                      # See: https://retype.com/pro
-start:
-  pro: true
 links:
   - text: Accueil
     link: readme.md
