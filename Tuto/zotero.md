@@ -42,3 +42,5 @@ Attention, il faut que le plug-in Word/LibreOffice de Zotero soit installé `Edi
 2. Cliquer `Set Document Preferences`
 3. Sélectionner le style "Université de Montréal - APA (Français - Canada)"
 
+## Obsidian
+Il est possible d'interfacer Zotero et Obsidian.
