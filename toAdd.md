@@ -94,3 +94,6 @@ http://www.culhamlab.com/academic-advice
 5. Indiquer l’UBR/Annexe C
 6. Faire compléter numéro de matricule (si déjà eu un contrat avec univ, sinon indiquer adresse postale complète)et signature par étudiant-e
 7. Envoyer à Julie Beauchemin avec autorisation use fonds
+
+
+# Remboursemetn
